@@ -23,3 +23,11 @@ You can see PDF for full solutions
 └── README.md
 
 This repository contains my original solutions; problem statements are omitted per course policy.
+- All content represents **my own original work**.  
+- The repository is intended **for academic and professional portfolio display** only.  
+- Please do not reuse or redistribute for coursework submissions.
+
+Author
+**Zongyu Mu (Zoey)**  
+Master’s in Computer Science, Worcester Polytechnic Institute   
+🔗 [GitHub Profile](https://github.com/ZoeyMu722)
