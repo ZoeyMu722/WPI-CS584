@@ -25,6 +25,8 @@ It showcases my understanding of algorithmic design, complexity analysis, and ma
 ┣ 📄 hw1-ZongyuMu.pdf
 ┣ 📄 hw2-ZongyuMu.pdf
 ┣ 📄 hw3-ZongyuMu.pdf
+┣ 📄 hw4-ZongyuMu.pdf
+┣ 📄 hw5-ZongyuMu.pdf
 ┗ 📄 README.md
 
 Each PDF file includes my original solutions and written analyses for homework assignments.  
